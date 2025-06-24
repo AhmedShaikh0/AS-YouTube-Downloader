@@ -6,7 +6,7 @@
     with resolution options and a dark, minimal interface — built using <code>tkinter</code> and <code>yt_dlp</code>.
   </p>
 
-  <img src="https://raw.githubusercontent.com/AhmedShaikh0/AS-YouTube-Downloader/refs/heads/main/1.png" alt="AS YouTube Video Downloader">
+  <img src="https://raw.githubusercontent.com/AhmedShaikh0/AS-YouTube-Downloader/refs/heads/main/docs/1.png" alt="AS YouTube Video Downloader">
 
   <h2>✨ Features</h2>
   <ul>
